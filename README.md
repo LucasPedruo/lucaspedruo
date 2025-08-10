@@ -1,6 +1,6 @@
 # Lucas Pedro (LucasPedruo)
 
-Sou programador Front-end a 1 ano e meio, onde possuo experiência com HTML, CSS, JavaScript, TypeScript, Angular, React, Git e GitHub.
+Sou programador Front-end a 1 ano e meio, possuo experiência com HTML, CSS, JavaScript, TypeScript, Angular, React, Git e GitHub.
 
 Trabalhei com Ui Design e WordPress por mais de 9 anos como freelancer.
 
